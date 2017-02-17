@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey
+=======
+wasuup
+>>>>>>> 994e41f811cbc3cce9978be03bde20601b0d97c3
